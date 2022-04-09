@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/next-firebase-auth.svg)](https://www.npmjs.com/package/next-firebase-auth)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](./CODE_OF_CONDUCT.md)
 
-# next-firebase-auth
+# next-firebase-auth with Firebase v9!
 
 Simple Firebase authentication for all Next.js rendering strategies.
 
